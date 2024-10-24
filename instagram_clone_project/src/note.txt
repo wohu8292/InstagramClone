@@ -1,0 +1,8 @@
+- react 실행
+    1. npx create-react-app my-app
+    2. cd my-app
+    3. npm start
+
+- firebase
+    - Firebase exposes the database via an API that your client can interact with
+    - 
